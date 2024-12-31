@@ -1,1 +1,9 @@
+# Système
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Éditeurs
+.vscode/
